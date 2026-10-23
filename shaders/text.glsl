@@ -1,0 +1,16 @@
+const ivec4 TEXT_TITLE=ivec4(2,2,204,56);
+const ivec4 TEXT_SUB=ivec4(2,67,247,18);
+const ivec4 TEXT_FTP=ivec4(2,94,170,70);
+const ivec4 TEXT_CONNECTION=ivec4(2,173,128,14);
+const ivec4 TEXT_LOGIN=ivec4(2,196,192,23);
+const ivec4 TEXT_OFF=ivec4(2,228,108,25);
+const ivec4 TEXT_ON=ivec4(2,262,227,25);
+const ivec4 TEXT_CONNECTED=ivec4(2,296,140,20);
+const ivec4 TEXT_TRANSFER=ivec4(2,325,156,25);
+const ivec4 TEXT_ERROR=ivec4(2,359,285,20);
+const ivec4 TEXT_WAIT=ivec4(2,388,129,25);
+const ivec4 TEXT_START=ivec4(2,422,90,18);
+const ivec4 TEXT_STOP=ivec4(2,449,86,23);
+const ivec4 TEXT_EXIT=ivec4(2,481,90,18);
+const ivec4 TEXT_CREDIT=ivec4(2,508,236,13);
+const int DIGIT_Y=538;

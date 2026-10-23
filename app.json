@@ -1,0 +1,24 @@
+{
+  "format": "hblauncher.gpu-app",
+  "abi": 1,
+  "id": "ftpd-sb",
+  "name": "ftpd-sb",
+  "version": "0.1.0",
+  "description": "FTP file transfer for romfs, save, and tmp",
+  "icon": "assets/icon.png",
+  "initialState": "assets/state.bin",
+  "data": "assets/text.bin",
+  "shaders": {
+    "vertex": "app.vert.spv",
+    "fragment": "app.frag.spv",
+    "compute": "app.comp.spv"
+  },
+  "sdk": {
+    "version": 1,
+    "capabilities": [],
+    "services": [
+      "ftp"
+    ],
+    "ftpPort": 5000
+  }
+}
