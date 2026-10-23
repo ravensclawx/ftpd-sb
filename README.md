@@ -6,6 +6,13 @@ A homebrew FTP server for SmileBASIC, built with the
 [HBLauncher SDK](https://github.com/ravensclawx/HBLauncher). Open it on your
 console and connect from a PC with FileZilla or another FTP client.
 
+> **USE AT YOUR OWN RISK.** This software is provided as-is, without warranties.
+> To the fullest extent permitted by law, RavensClawX and contributors are not
+> responsible for damage to your Nintendo Switch 2, PC, Pico, or other hardware;
+> data loss; corrupted saves; or other consequences of using this software.
+> Back up important data before making changes. FTP writes and deletes affect
+> real SmileBASIC files.
+
 ![ftpd-sb connection screen](docs/screenshot.png)
 
 Maintained by **RavensClawX**. Version **0.1.0**.
